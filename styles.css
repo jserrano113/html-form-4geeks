@@ -7,19 +7,18 @@ button{
     border-color: rgba(128, 128, 128, 0.151);
     border-width: 5px;
     background-color: white;
-    margin-bottom: 70px;
-    
+    margin-bottom: 70px; 
     
 }
 .card{
     background-color: black;
-    height: 2000px;
+    height: 1500px;
 }
 .card2{
     background-color: white;
-    margin-top: 100px;
-    margin-right: 470px;
-    margin-left: 470px;
+    margin-top: 60px;
+    margin-right: 300px;
+    margin-left: 300px;
 }
 .header{
     background-color: pink;
